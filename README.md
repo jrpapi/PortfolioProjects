@@ -6,3 +6,4 @@
 5. Dashboard Creation in Excel - Bike Sales Dataset
 6. Amazon Web Scraping using Python
 7. Automating Crypto Website API Pull Using Python
+8. Finding Correlations using Python (Movie Gross Earnings)
